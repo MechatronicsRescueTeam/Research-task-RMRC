@@ -1,5 +1,3 @@
-<style>h1 { font-family:verdana; color:#21618C ; }</style> <style>p { max-width: 700px; font-family:verdana; color:#333333; }</style>
-
 # Research task - RMRC
 
 Firstly we improved the housing and battery storage by designing a 3-D model of the new enclosure. Then we had to design how the gears and belts were going to fit into the enclosure to reliably transfer the motion of the motor to the tracks. When we started to 3-D print prototypes we had a few problems with the printers that we were able to quickly resolve. We will have two different battery packages, one for 5V power supply for the Raspberry Pi and our microcontroller (Arduino nano) and one 12V power supply for our dynamical AX-18A motors. If we only used one battery pack our battery would drain a lot faster.
